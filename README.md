@@ -115,8 +115,8 @@ Since the dataset is imbalanced, I focused on:
 - Add real-time prediction capability
 
 ## Author
-**Name**: John Doe  
-**Email**: john.doe@student.edu  
+**Name**: MURALI Krishna 
+**Email**:krishnmurali284@gmail.com 
 **Date**: December 2024
 
 ## License
@@ -124,4 +124,3 @@ This project is for educational purposes
 
 ## Acknowledgments
 - Thanks to Kaggle for providing the dataset
-- Thanks to my ML course instructor for guidance
